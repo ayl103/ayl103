@@ -1,0 +1,2281 @@
+[
+  {
+    "id": 1,
+    "name": "Aimee Abalos",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/syamu557-5.jpg",
+    "social": {
+      "portfolio": "http://aimemee.com/",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Aimee Abalos is a technology based-designer "],
+    "project": {
+      "title": "Coexist: Polar",
+      "website": "http://aimemee.com/sub/Coexist.html",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Wildlife Conservation", "Climate Change", "Simulation Game"],
+      "description": ["Coexist examines human-wildlife coexistence to challenge the wicked problem climate change. Polar is an animal-centric game for the project Coexist.The project is an experimental game that attempts to formulate player's empathy with wildlife animal by shifting their role from a human to endangered animal. Moreover, the project narrates and simulates the story that is happening in the Arctic area. The player can experience the struggle for survival through the eye of the wildlife animal."],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sydney Adams",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/mustw826-4.jpg",
+    "social": {
+      "portfolio": "https://sydneyadamsdesigns.com/portfolio/recurrent/",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Sydney is New York based interaction designer that specializes in game design and interactive media. With a background in English and Creative Writing, her work centers around strong narratives, unique characters, and unexpected twists. She will continue working in story-driven media, and will be one to watch in the coming years.  "],
+    "project": {
+      "title": "Recurrent",
+      "website": "https://sydneyadamsdesigns.com/portfolio/recurrent/",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Interactive Story", "Tablet", "Mobile", "Storytelling", "Game", "Diverse", "Narrative"],
+      "description": ["Recurrent is an interactive story game about three lost souls at the mercy of a sinister girl, and her otherworldly Playground. Together, 'First,' a child who has trouble fitting in, 'Second,' a middle-aged schoolteacher battling social norms, and 'Third,' a teen with identity issues, must work together, or risk being the shadow girl’s playmates, forever.  "],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nyantee Asherman",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/lafoc311-4.jpg",
+    "social": {
+      "portfolio": "http://nyantee.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I am a creative technologist interested in applying design and technology to social justice issues. I'm also an art fanatic interested in museums and educational technology. "],
+    "project": {
+      "title": "An Argument for the Internet as a Place of Selves Expression",
+      "website": "",
+      "thesis-category": ["Data", "Culture/Issues"],
+      "coverImage": "",
+      "image": ["1.JPG", "2.JPG"],
+      "tags": ["privacy", "publicity", "community",  "networking",  "in-groups", "code-switching", "marginalized", "activism", "social justice"],
+      "description": ["Over the course of the last year, I have used my thesis to explore  this question : what does it mean to express ourselves authentically online? The projects I have developed have become practiced-based research into this question. Each allowed me to procure conclusions about how current online systems produce online cultures that inhibit our ability to express ourselves freely, find places to be vulnerable, and connect to to each other.  And I hope they inspire designers of social media sites to consider these implications when designing the applications of the future."],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mehtap Aydin",
+    "profile-pic": "portraits/mehtap.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 5,
+    "name": "Estee Bruno",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/tothn598-6.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Estee Bruno is a creative technologist originally from New York City. She is interested in bringing ideas to life by bridging the gap between design and technology by utilizing several different technological mediums including VR, Wearable Technology, and Product Design."],
+    "project": {
+      "title": "Essential",
+      "website": "",
+      "thesis-category": ["Wearable", "Product Design"],
+      "coverImage": "",
+      "image": ["1.jpg"],
+      "tags": ["Product Design", "Customized", "Wearable", "Video",  "Assistive Device", "3D print"],
+      "description": ["Essential is an industrial design project with a mission to provide hygienic help to Christina with physical assistance. Good personal hygiene is an effective way to prevent bacteria from causing disruptions in the body, therefore Essential focuses on people with disabilities of the arms, hands, or shoulders."],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Christopher Romero",
+      "writing-professor-2": "Ethan Silverman"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Shuang Cao",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/jung235-3.jpg",
+    "social": {
+      "portfolio": "shuangc.wixsite.com/shuangcao",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "www.linkedin.com/in/shuang-cao",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Shuang Cao is a multimedia designer and developer. She is enthusiastic about interactive design, creative coding, and creative storytelling. Her works range from interactive installations, VR/AR, games, to animations."],
+    "project": {
+      "title": "Neverdream",
+      "website": "http://shuangc.wixsite.com/shuangcao/neverdream",
+      "thesis-category": ["Interactive Installation", "Culture/Issues"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Creative Storytelling","Interactive Installation","Augmented Theater","Immersive Experience","Interactive Design","Traditional Culture"],
+      "description": ["Neverdream is an installation which reinterprets a traditional Chinese opera, The Peony Pavilion. From the perspective of Du Liniang in the story, participants experience the narrative using 3D story objects to remix elements of plot.","The interaction allows exploration between dream and reality in the story and across the boundary between the symbolic and the actual world.  Neverdream attempts to make traditional Chinese opera relevant to contemporary audiences."],
+      "studio-professor-1": "Sven",
+      "writing-professor-1": "Louisa",
+      "studio-professor-2": "Colleen",
+      "writing-professor-2": "Barbara"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Xiaoling Chen",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/yangc901-0.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["A UX designer living in NYC. I'm a movie-lover and foodie."],
+    "project": {
+      "title": "ASEED - Your Personalized Chatbot",
+      "website": "http://www.sherlin.design/",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Chatbot", "Machine learning", "middleman", "overseas educational consultant"],
+      "description": ["Sign up to find the right overseas school or you and connect to experts, giving you unbiased, authoritative advice on applying to colleges."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornoza"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Jae Kyong Cheong",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/burka186-3.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "www.linkedin.com/in/jaeky-cheong",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Jaeky graduated from BFA SVA computer art in 2013 and worked as a 3D Generalist for 2 years in New York. She loves to explore new cultures and people in the world and also loves to draw everything around her.  "],
+    "project": {
+      "title": "Dream Cat",
+      "website": "http://thinkingcat.squarespace.com/",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["AR, augmented reality", "card game", "game, cat", "cat lovers", "pet", "pet owners"],
+      "description": ["My project, ‘Dream Cat,’ is a two-player Augmented Reality matching card game based on cats’ behaviors and characteristics. The goal of my project is to provide a fun, playful, and icebreaking game for cat lovers' community. Through the card game, two users can learn about cats’ characteristics and behaviors and then talk about their interest and experience with the cats. Also, users are allowed to collect various cat character cards and see the animated 3D cats through the AR program."],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Jeana Chesnik",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/mcnes430-3.jpg",
+    "social": {
+      "portfolio": "jeanadesigns.com ",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Jeana designs projects that encourage curiosity and exploration with technology placed inspired by urban landscapes and immersive storytelling. Her background designing learning environments as an Instructional Designer and growing passion for urban tech has inspired her to create an array of creative projects while pursuing a M.F.A in Design and Technology at the Parsons School of Design. Projects of hers include technology within the realms of Augmented Reality, Virtual Reality, 360 Film, 3D Environments, Projection Mapping, Arduino, and Lighting Design Installations. "],
+    "project": {
+      "title": "Walking Through The Darkness ",
+      "website": "jeanadesigns.com",
+      "thesis-category": ["VR/MR/AR"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Unity", "3D Environment", "Virtual Reality", "Environmental", "Sustainability", "Puerto Rico", "Lighting, Darkness"],
+      "description": ["Walking Through The Darkness is a large scale projection that takes the viewer into a world of those living without light and reveals stories hidden in the darkness. Inspiration for this project came from Jeana's experience as a videographer for a short documentary she directed about a group of Parsons lighting design students visiting Puerto Rico four months after Hurricane Maria destroyed the main power grid of the island. While documenting communities still living without electricity, she was inspired by the resilience of the Puerto Rico communities and their adaption to their new rhythm of life living without electricity. Each night as dusk would approach, a quiet stillness would fall over the neighborhoods without electricity. As the team would make their way back to San Juan each night where electricity was working, they would see pockets of light that would appear and disappear within various neighborhoods.", "There was a moment when we were driving through a community just after dusk and we could hear the generators kicking in for the night. As I had my camera out the window trying to film, I turned to my right in the opposite direction and could see a globe of light floating in the middle of the doorway of a unlit home. As we drove passed, I realized it was a person standing there, a woman figure in the darkness with a solar lamp light around their neck, just quietly standing there watching our car lights pass by. The visual was so powerful. It finally hit me how many other lives are in the dark around us and throughout the island, quietly waiting. We forget about the life living in the dark because there is such a disconnect with light and darkness. We think life is only in the light, but there is life breathing in the dark as well. These communities are slowly being forgotten about and to this day still don't have power. She's still standing there night after night watching the world pass by and what are we going to do about it?", "Jeana's memories of the quietness and pockets of light discovered from the experience guided her to recreate a 3D environment within Unity to capture the visuals that she was unable to capture with digital film. Each vignette of light is inspired from real life interviews and visuals she witness while visiting the communities of Puerto Rico."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "Chris Romero",
+      "writing-professor-2": "Ethan Silverman"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Andrew Cotter",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/parkm223-5.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "https://twitter.com/ThatCotter",
+      "other": ""
+    },
+    "aboutme": ["Computational Art + Design"],
+    "project": {
+      "title": "From Easy to Simple",
+      "website": "http://thatcotter.github.io/thesis/",
+      "thesis-category": ["Education"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Education", "Creative Coding", "p5js"],
+      "description": ["A Field Guide to Programming as Expression"],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Lauren Donohue",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/dothh489-4.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 12,
+    "name": "Aim Duangratana",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/florr422-5.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Hello, my name is Aim. I aimed and I’m aiming, you can say I’m an aimer.", "I am a visual designer, a front-end developer, a researcher, and a game designer.", "Check me out at aimmers.com" ],
+    "project": {
+      "title": "Stress Express",
+      "website": "stressexpress.company",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": ["1.png"],
+      "tags": ["Card Game", "Game Design "],
+      "description": ["I am creating a hybrid game between cards and mobile phones that is commenting on stressful, hard - working people. This game will allow players to experience their lives from a macro view where it mimics their busy, overworked and overwhelmed life in a humorous way.",  "My intention of this game is for players to reflect upon the absurdity of a chaotic life, and have them laugh about it."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Hannah Ekman",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/lehra714-0.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Hannah is a creative technologiest focused on the field of UX design and research.  "],
+    "project": {
+      "title": "Fish Eyes",
+      "website": "fisheyes.tech",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": ["1.gif"],
+      "tags": ["artificial intelligence", "UX research", "UX design", "UI design"],
+      "description": ["Artificial Intelligent tool which analyzes existing surveillance footage to improve spatial planning."],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Roxanne Farkas",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/henrt555-5.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/farkasroxanne/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Roxanne Farkas is a product designer focused on usability. Roxanne enjoys using her background in design and front-end development to build functional prototypes that help bring the experience of the product to life."],
+    "project": {
+      "title": "HealthAid",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["education", "healthcare"],
+      "description": ["HealthAid is an educational mobile web application designed to empower young adults to more proactively manage their healthcare. The application guides users through step-by-step, self-directed medical examinations enabling users to better maintain their health between appointments or in the event they don’t have ready access to healthcare providers. HealthAid allows users to store their own Patient Health Information, giving them a greater understanding of their health."],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornoza"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Kuldeep Gohel",
+    "profile-pic": "portraits/kuldeep.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Confident, empathetic and optimistic innovator. Well versed in technologies including coding, interaction design and music production. A firm believer in solving problems with a minimalistic and simple approach. Passionate about Design, Music, Coding, Mathematics and Art."],
+    "project": {
+      "title": "Artificial Digitality",
+      "website": "https://www.kuldeepgohel.com/copy-of-artificial-digitality",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Artificial Intelligence","Mathematics - Music","Speculation "],
+      "description": ["Artificial Digitality","\"Concept Music Album co-authored by me and my neural network.\"","Artificial Digitality is an abstract music album, narrating how the world has been changing with the advent of Artificial Intelligence. Each composition in the album expresses the world of that period of time.","Artificial Digitality begins with a composition that is authored by me alone without assistance from artificial intelligence. Sections that follow are co-authored by the neural network and me. The album concludes with a composition that is completely generated by the A.I.","The work speculates on the future of machine learning and the possible ways in which it will join and perhaps overtake humans in intelligence and ability. In the end, my work is a rumination on the future of work in all fields, including creative production."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Remina Greenfield",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "www.reminagreenfield.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Remina is an artist and designer based in Brooklyn, NY."],
+    "project": {
+      "title": "Target and Control: Remembering Levuana",
+      "website": "www.reminagreenfield.com",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Extinction", "Anthropocene", "biodesign", "biotech", "biological control", "multispecies ethnography"],
+      "description": ["Target and Control is a video installation that creatively reimagines the story of the coconut moth (Levuana iridescens) and the campaign that was carried out against it in colonial Fiji. Due to its rapid proliferation and destruction of coconut plantations in the early 1900s, a campaign of biological control was carried out against Levuana by the British Imperial Bureau of Entomology, resulting in its near-complete disappearance in a span of six months and, ultimately, a declaration of its extinction.","Using the original scientific illustrations from the Levuana Campaign, the artist superimposes herself in the role of the entomologist, bringing the drawings to life in order to perform a set of arcane scientific experiments, ranging from benign to gruesome. The hands of the artist can be seen selecting, measuring, dissecting, and rearranging the moth and other experimental organisms like puzzle pieces or interchangeable mechanical parts. By performing these gestures of scientific control, the artist questions the role the entomologists played in the moth’s annihilation, as well as the ethical implications of attempts by humans to control or “redesign” living systems.", "Projecting the videos onto a light table, Target and Control asks viewers to mimic the scientific gaze, as though looking through a microscope or at specimens on a lab bench. By watching the performance video, the viewer is invited to re-witness the control and demise of Levuana and consider the loss of the individual moths, as well as the singular loss of the species as a whole."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Yue Guan",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Hi, I’m Yue, a creative technologist, user experience designer, and currently MFA Design and Technology '18 candidate at Parsons. I’m dedicated to research the interaction between human and the digital world. My works include a wide range of design practices from communication design to experience design. I’m a creative thinker who is always exploring new technology, platforms and methodologies to enhance immersive experience utilizing interactive media."],
+    "project": {
+      "title": "Too Few Too Many",
+      "website": "https://yueguan.me/decode-creative-inheritance/",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": ["1.png", "2.png"],
+      "tags": ["Game Design", "Global Challenge"],
+      "description": ["Too Few, Too Many is a multiplayer board game about solving population crisis and developing your own civilization in a fictional universe. This game aims to enhance the awareness of how we are facing this social issue, so that we can be better prepared for the looming population crisis."],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ying He",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 19,
+    "name": "Ziqiang He",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/ziqiang-he-1158bb132/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I am a Design Technologist and UX Designer. My project is most about esports, UI/UX development and art installation"],
+    "project": {
+      "title": "Gamer or Viewer",
+      "website": "https://heziqiang.myportfolio.com/",
+      "thesis-category": ["Inetractive Installation"],
+      "coverImage": "",
+      "image": ["1.JPG"],
+      "tags": ["Esports", "Excitement", "Installation"],
+      "description": ["This project is an installation which aims to recruit spectators for eSports by communicating the excitement of eSports to its potential audience."],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Man-Ling Huang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Hi I am Rosa!"],
+    "project": {
+      "title": "The Performance of Love",
+      "website": "",
+      "thesis-category": ["Interactive Installation"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Critical design","Installation","Intimacy","Human-robot relationship"],
+      "description": ["The Performance of Love"],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "Chris R.",
+      "writing-professor-2": "Ethan Silverman"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Nan Huang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["UX/UI Designer"],
+    "project": {
+      "title": "RISE",
+      "website": "huangnann168.wixsite.com/thesis",
+      "thesis-category": ["Cultural/Issues"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["An experimental digital instrument", "Novel musical interface", "Traditional Chinese art "],
+      "description": ["An experimental digital instrument inspired by the ancient Erhu, the project enables musicians’ sensor-based manipulation of Ehru-like sounds by their mimicking its bowing and gestural hand movements with a novel musical interface."],
+      "studio-professor-1": "Anthony Dean",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Yuchen Huang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "http://www.lucienhuang.com/",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/lucienhuangyc/",
+      "linkedin": "https://www.linkedin.com/in/lucienhuangyc/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I'm a New York based designer focused on experience design and game design. I'm passionate about using technology to solve problems and creating innovative solutions."],
+    "project": {
+      "title": "Clash",
+      "website": "",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": ["1.png"],
+      "tags": ["Game Design", "Critical Design", "Digital Game", "Analogue Game"],
+      "description": ["Clash is a game encourage players to understand their opponents' opinions and views"],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Ying Jiang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["A creative motion graphics lover!"],
+    "project": {
+      "title": "Cultural Table",
+      "website": "",
+      "thesis-category": ["Culture/Issues"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Installation", "Chinese food culture"],
+      "description": ["Cultural Table situates its users in a projection dining experience with servings of regional cuisine from Northern China triggering culturally-related animations on the surface of the table, enabling its users to discover and share cultural practices — in this case “rules” that govern the ritual and stories of the foods on the menu. "],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Seung Ho Jung",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "jung3.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Creative technologist specializing in designing & developing mixed reality experience."],
+    "project": {
+      "title": "Reflections of Desire",
+      "website": "",
+      "thesis-category": ["VR/MR/AR"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Mixed Reality", "Virtual Reality"],
+      "description": ["a live VR experience into "],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 25,
+    "name": ". Kabeer",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 26,
+    "name": "Erica Kermani",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/farsiforeplay/",
+      "linkedin": "",
+      "twitter": "https://twitter.com/farsiforeplay",
+      "other": ""
+    },
+    "aboutme": ["Erica Kermani (1983, Los Angeles) is a New York- and Paris-based artist, educator, and community organizer.  She creates projects and public programs around rituals for resistance, collective care, and technological sovereignty.  Erica is co-creator and co-organizer of Radical Networks, an annual festival on the creative and alternative uses of network technologies. She is the former Director of Community Engagement at Eyebeam and is currently the recipient of the Mozilla Hive NYC Leadership Grant."],
+    "project": {
+      "title": "'= Well No. 1",
+      "website": "https://ericakermani.com/well-no-1",
+      "thesis-category": ["Speculative/Critical", "Culture/Issues"],
+      "coverImage": "",
+      "image": ["1.png"],
+      "tags": ["Ritual", "Extraction", "Oil", "Speculative Fiction", "Mythology", "Resistance"],
+      "description": ["'= Well No. 1 is a new mythology based on the first oil well in Iran, and the first in the Middle East. Through a series of fictional videos and ritualistic performances, this counter mythology serves to reverse this history of oil extraction for the purpose of Iranians and the diaspora to heal, resist, and reclaim culture and land.  Drawing on my own experiences as a first-generation Iranian-American, I implicate myself into this narrative to unearth what has brought me to this place in time and space."],
+      "studio-professor-1": "Benjamin Gaulon",
+      "writing-professor-1": "Claire Richard",
+      "other-professor-1": "Christine Sugrue",
+      "studio-professor-2": "Benjamin Gaulon",
+      "writing-professor-2": "Claire Richard",
+      "other-professor-2": "Christine Sugrue"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Mi Sung Kim",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Misung is a multidisciplinary designer currently residing in New York and loves the element of play in interactive design. From creating graphic interfaces for smart devices to designing accessible education tools, especially for children, she is always in the hunt for new stories or modes of communication that are fun and approachable. Her overarching goal is to promote a harmonious environment through user-friendly design."],
+    "project": {
+      "title": "Hi Maroon",
+      "website": "https://www.misungkim.work/hi-maroon/",
+      "thesis-category": ["Product Design", "Education"],
+      "coverImage": "",
+      "image": ["1.png"],
+      "tags": ["Tangible user interface", "interaction design", "kindergarten aged children", "education", "plant", "vegetable"],
+      "description": ["Hi Maroon is an interactive and educational vegetable pot for helping Pre-K children at home to learn about the process of planting, appreciate where vegetables come from, get interests in gardening and eventually promote their healthy eating habits. The design involves children interacting by voice with a vegetable “character” which is an actual plant they grow in a pot. The project comprises 1) a pot, 2) a pot holder (including a machine), 3) a guidebook for parents. A pot holder and a pot will be assembled as an entity that children use to grow and verbally interact with vegetables. Furthermore, a guidebook is particularly designed for parents to enhance coaching and supervising the interaction between children and the vegetable character in the pot. My aim is children’s personal and emotional connections with produce through the interactions presented: by listening to vegetable’s growth stories, questioning, and caring them. "],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Taeyeon Kim",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 29,
+    "name": "Tushar Krishnan",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 30,
+    "name": "Haemin Kwon",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Product designer"],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Life Coaching", "Self Improvement", "Social Media"],
+      "description": ["My project is a mobile self-improvement application, which guides people to think and write about themselves and their lives. The application provides four prompts everyday, and users can pick one of them to start writing. Each prompt would help people to quickly get into the writing mode and plan their tomorrow or reflect on their day. After writing, users will be able to see seven others' writings following the same prompt they wrote. Also, if users like specific responses, they can subscribe to that user. By reading others’ perspectives on life, people can feel sympathy, get energized, and have new insights. Whenever people complete seven prompts, the application will create a collection of seven prompts at a time, so people can reread and look back on their past again. This system will remind people of their thoughts and encourage them to make changes in their lives. For the long-term goal, the users will build a writing routine for themselves as well as make changes in their lives based on their writings about their life plans and goals."],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Aaron Lee",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "aylee.me",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/pikkiri/",
+      "linkedin": "https://www.linkedin.com/in/aaron-lee-20126962/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Aaron Lee is a creative technologist, designer, and maker."],
+    "project": {
+      "title": "The Unclear Evils of DNA",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Design Fiction", "biotechnologies", "Genetic Information"],
+      "description": ["With the rise of biotechnologies and the availability of genome sequencing, the growth of DNA databases could become a looming problem. The Unclear Evils of DNA is a design fiction that speculates on the practice of widespread genetic collection and modification in the near future. There is growing awareness of the importance of protecting our online data, however this campaign for sovereignty must extend to our biometric data. My aim is to raise critical discussion of biotech advancements, particularly on how we need to be wary of genetic collection and human modification.","Set in the year 2035, the fiction proposes a future where the government has declared a mandate to collect the populations genetic information. The story follows the life of a scientist who is studying genetic modification on non-viable human embryos through studying people’s genetic information from the database. She later discovers her facility has already begun testing protocols on viable embryos and questions the ethicality of proceeding in unchartered experimentation."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Lousia Campbell",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Vivian Lee",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "http://viviantlee.com/",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Vivian is currently a Design and Technology graduate student at Parsons School of Design. Being a lover of animated movies and shows, she aims to find new and engaging mediums for storytelling through creative technology. Skills she's obtained from Parsons Design and Technology include concept and iterative development, UX research/design, and software and hardware development. She will be graduating in May 2018, but she hopes that she will never stop learning."],
+    "project": {
+      "title": "Fish Eyes",
+      "website": "fisheyes.tech",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": ["1.gif"],
+      "tags": ["Artificial Intelligence", "UX research", "UX design", "UI design"],
+      "description": ["Artificial Intelligent tool which analyzes existing surveillance footage to improve spatial planning. "],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Kris Li",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Kris Li is an interactive space designer with great interests in the field of exhibition design and installation art. My work employs technology as a design tool to tell stories about ourselves and the spaces around us. "],
+    "project": {
+      "title": "Boundless",
+      "website": "krisliqc.com/thesis",
+      "thesis-category": ["Interactive Installation"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Installation art"],
+      "description": ["“Boundless” is an exploration on new ways of interacting with different versions of the reality. This installation creates a matrix of real and unreal worlds, represented through algorithmic simulations and optical illusion. as it manipulates the disconnect between our visual and haptic perception. "],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Weilin Li",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 35,
+    "name": "Chieh-Li Lin",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 36,
+    "name": "Hsuan Lin",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["programmer and game designer"],
+    "project": {
+      "title": "ONE",
+      "website": "https://hsuanlin448.wordpress.com",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["interactive website", "short game experience"],
+      "description": ["“One” is an interactive website for three people to have a collaborative and mindful experience. Players use their cell-phone as the controller to interact with three rotating objects on the screen. Through synchronizing and manipulating the speed and shape of the objects, players can focus on the moment together, and have a relaxed and refreshing moment."],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Christopher Romero",
+      "writing-professor-2": "Ethan Silverman"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Chang Liu",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 38,
+    "name": "Junyao Liu",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 39,
+    "name": "Ting Liu",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 40,
+    "name": "Neil Liu",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "https://neilsamanyc.myportfolio.com/work",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "www.linkedin.com/in/yangliu2018",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Digital Media Designer"],
+    "project": {
+      "title": "无常(WuChang)",
+      "website": "https://neilsamanyc.myportfolio.com/work",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Digital", "Interactive", "Installation", "Immersive Experience"],
+      "description": ["Immersive Experience"],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Tongkwai Lulin",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 42,
+    "name": "Sisi Ma",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Graphic/Digital Designer"],
+    "project": {
+      "title": "The Way",
+      "website": "",
+      "thesis-category": ["Installation", "Culture/Issues"],
+      "coverImage": "",
+      "image": ["1.gif"],
+      "tags": ["Taoism", "Interactive Installation"],
+      "description": ["The Way is an interactive installation to enable participants' experience of the Taoist principle of the power and omnipresence of nature, which is human and nature cannot be separated from one another."],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Kris Madden",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "https://www.krismadden.fr ",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/maddenly/",
+      "linkedin": "https://www.linkedin.com/in/maddenkris/",
+      "twitter": "https://twitter.com/madden_kris",
+      "other": ""
+    },
+    "aboutme": ["Kris Madden is an American designer and creative technologist based in Paris. Her years as an educator inspire her provocative contributions to the high-tech DIY and open source communities. Specializing in programming and physical computing, she creates objects, installations, and websites that push technology’s boundaries to produce new and interactive experiences."],
+    "project": {
+      "title": "Grow Your Own Phone",
+      "website": "https://krismadden.fr/growyourownphone.html",
+      "thesis-category": ["Speculative/Critical", "Product Design"],
+      "coverImage": "",
+      "image": ["1.png"],
+      "tags": ["Physical Computing", "Mobile Phone", "Raspberry Pi", "Python", "Critical Design", "Plants", "Nature", "DIY", "Do It Yourself", "Interactive Installation"],
+      "description": ["Grow Your Own Phone is a critical design project that questions the form and function of the mobile phone. Rejecting trendy, small, sleek, shiny, rectangular mobile phone design, this interactive installation offers the same functions of a traditional mobile phone but within the confines of a garden."],
+      "studio-professor-1": "Benjamin Gaulon",
+      "writing-professor-1": "Claire Richard",
+      "other-professor-1": "Christine Sugrue",
+      "studio-professor-2": "Benjamin Gaulon",
+      "writing-professor-2": "Claire Richard",
+      "other-professor-2": "Christine Sugrue"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Dylan Negri",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "http://dylannegri.com/mfa-thesis",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Dylan Negri is a Brooklyn based Designer and Artist that is a candidate for an MFA in Design and Technology at Parsons School of Design. He also has a BFA in Interdisciplinary Sculpture from the Maryland Institute College of Art (a.k.a. MICA) with a concentration in ceramics.","Dylan is a lifelong learner, he loves experimenting with anything that may facilitate creativity. Although he is drawn to many forms of expression, Dylan enjoys creating interactive experiences through quirky installations and arcade style games. However, he has also worked on many other types of projects that range from product design, packaging, sculpture, graphic design and app development." , "Before attending graduate school, Dylan spent worked in Baltimore at a Bronze foundry making both public and privet sculptures commissioned by artists for various clients. After which, he decided to move to Brooklyn where he lined up a position as a cabinet maker and installation specialist, where he learned wood fabrication, reading construction drawings and communicating with the General Contractor for various commercial and residential projects around New York City. During this time, he continued his sculptural practice showing work in some high profile exhibitions and a museums. Dylan often utilized sculpture and installation in his work, because it relates to human scale due to its physical nature. Although, he is now experimenting with technology as a medium to create playful experiences inspired by the rapidly changing technological environment we live in today."],
+    "project": {
+      "title": "Quality of Life: Identity Gaming",
+      "website": "http://dylannegri.com/mfa-thesis",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": ["1.jpg"],
+      "tags": ["Industrial Design", "Interaction Design", "Game Design"],
+      "description": ["There are many examples of controllers that get the job done successfully enough to be used for competitive game play. However, there are few that consider the experience tactile experience beyond the ergonomic form factor. My project will fill this need for gamers, by looking at materials beyond the status quo, like cast form or 3d printed plastic, and adding a unique form factor without sacrificing its usability. There is not yet a singular accepted answer for a perfected game controller, although we have come very close. This project is a tribute to the developmental influence of those within the gaming community who grew up during the genesis of online console gaming.     "],
+      "studio-professor-1": "Anthony Dean",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Diana Salcedo",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 46,
+    "name": "Tuba Özkan",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "https://tubaozkan.com/project/eyeco",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/tubaozkantuba/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I am a designer, architect and creative technologist with a strong passion for designing interactive experiences by bridging architecture and technology. My areas of expertise are interaction design, visual design, and spatial design. I am skilled in developing design concepts through production by using a range of tools and technologies. Creative and critical thinking are essential to my design process. My lifetime goal is to keep learning new things every day and reflecting this knowledge on people through my designs. I am a flaneur deep down. Getting lost in the city, observing people on the subway, sketching ideas, meeting with people at a park are my favorites."],
+    "project": {
+      "title": "Ethnography of Self",
+      "website": "https://tubaozkan.com/project/eyeco",
+      "thesis-category": ["Speculative/Critical"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Ethnography", "Daily Rituals", "Digital Displays", "Discursive Design", "Computer Vision", "Third Eye"],
+      "description": ["This project is based on a speculative design product, a smart wearable which becomes a third eye to the human body. Third eye augments the vision of human and detects the time spent by staring at digital interfaces. It uses computer vision and AI technologies to determine a specific daily habit;  staring at a digital screen for a long  time. This project aims to question these both; how technology is reforming our daily habits and rituals and what if computer vision and AI are used to reveal the ethnographical data of self?  "],
+      "studio-professor-1": "Anthony Dean",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Brandon Palmer",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/palmerbrandon",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Brandon Palmer is a multidisciplinary designer & technologist who explores different design strategies and tools to create engaging experiences."],
+    "project": {
+      "title": "CONSUMED",
+      "website": "http://palmerdesigner.com/mfathesis/",
+      "thesis-category": ["VR/MR/AR"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Virtual Reality Development, Attention Economy, Data Mining"],
+      "description": ["CONSUMED is an ambiguous Virtual Reality fantasy game, driven by narrative. Similar to the world of distractions that we live in today, attention merchandising is the main source of currency spent by players to unlock new content while exploring inside their dream. Through out the players journey, meaning beings to arise as they continue to experience their loss of time, money and energy. Leaving the player to work towards gaining their sense of time back, and waking up from the dream state."],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Jungsoo Park",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/jungsoo-park-724337109",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I'm an interaction designer based in New York City. I love to design for myself, my family, and people who I care about. My goal as a designer is nudging people to be faithful to the present. personal website: http://uxjungsoopark.com"],
+    "project": {
+      "title": "One Roof",
+      "website": "https://medium.com/@jungsooxpark",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": ["1.png"],
+      "video": [""],
+      "tags": ["family", "international students", "photograph"],
+      "description": ["A digital photo frame that improves the connection between family who live apart"],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Fanyun Peng",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Fanyun Peng has a bachelor degree in computer science and technology in Sichuan University, China. Now she is studying as the second year student of MFADT, Parsons. As a creative technologist, she is interested in wearable technology, physical computing, and installation."],
+    "project": {
+      "title": "Dreamine",
+      "website": "https://fanyun.me/dreamine-content",
+      "thesis-category": ["VR/MR/AR"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["AR", "Computer Vision", "Storytelling", "kids"],
+      "description": ["Dreamine is an AR modeling clay game for children age 5 years and up that brings their creations to life in the digital world. It aims to expand physical play to digital interaction and inspires children’s creativity and hands-on skill."],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 50,
+    "name": "Lauren Petty",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Lauren is a digital media artist working in video, film, sound, installation, interactive design and performance, she is a longtime collaborator of multi-disciplinary artist Shaun Irons. Their work has been exhibited in diverse locations in New York and internationally and was recently seen at BAM's Next Wave Festival (in collaboration with Phantom Limb), Abrons Arts Center, The Chocolate Factory, HERE, The Center for Contemporary Arts, Santa Fe, The Governors Island Art Fair, and was broadcast on PBS's Reel NY. Their video design work has been seen at venues such as St. Ann's Warehouse, The Public Theater, HERE, PS 122, The Kitchen, the Pompidou Center, Paris, Holland Dance Festival, the Noorderzon Festival, the Venice Biennale, and the BAM Next Wave Festival. Awards include two NYFA Fellowships, grants from the NEA, NYSCA, Jerome Foundation, the Greenwall Foundation, the Experimental TV Center, and the Asian Cultural Council, as well as residency fellowships from the MacDowell Colony, Yaddo, LMCC, Harvestworks, The Bogliasco Foundation and the Tokyo Wonder Site.", "Lauren received an MA in Media Art and Peformance from New York University and a BA in Art History from Northwestern. She is currently finishing an MFA in Design and Technology at Parsons School of Design. She is an Associate Teaching Professor at The New School (Media Studies and Parsons), a lecturer at The International Center of Photography and Pratt Institute, a Teaching Artist at The Kitchen, and was a visiting teaching artist at Sarah Lawrence College and Wesleyan College."],
+    "project": {
+      "title": "All Over Everywhere",
+      "website": "http://automaticrelease.org/AOE.html",
+      "thesis-category": ["Installation"],
+      "coverImage": "",
+      "image": ["1.JPG", "2.jpg", "3.jpg", "4.jpg"],
+      "tags": ["Video", "installation", "performance", "fine art"],
+      "description": ["\"All Over Everywhere” is a multifaceted, trans-disciplinary media installation,  which addresses jeopardized natural environments, by engaging connections and confrontations between human beings, technology and the natural world. Combining ethereal video projections, custom plexi-glass panels, live performers, sensors, and a vibrant tapestry of sound, I endeavor to create an immersive and transformative experience. Inherent in “All Over Everywhere” are some of the most terrifying as well as hopeful questions of our time, questions that impact all of humanity and its future on this planet, considering notions of fate and the potential of a post-human world."],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Jim Pinkenberg",
+    "profile-pic": "portraits/jim.jpg",
+    "social": {
+      "portfolio": "http://www.jimmypink.com/thesis1.html",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I am just a guy trying to squeeze the last bit of toothpaste from the tube"],
+    "project": {
+      "title": "FileBoom.com",
+      "website": "",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["file sharing", "design and technology", "file browsing", "closed community", "coop", "platform economy",  "people discovery", "working together", "group creativity "],
+      "description": ["share | browse | discover - Know someone that knows something you don't"],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "Christopher Romero",
+      "writing-professor-2": "Ethan Silverman"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Abhishek Podichetty",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 53,
+    "name": "Karla Polo",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "http://karlapolo.com",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/karlapolo.design/",
+      "linkedin": "https://www.linkedin.com/in/karla-polo/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Karla is a creative technologist and visual communication designer. She has a particular interest in the social impact of new technologies. Karla has experience in rapid prototyping, physical computing, audiovisual design, UX/UI design and front end development."],
+    "project": {
+      "title": "DIWhy?",
+      "website": "http://karlapolo.com/diwhy",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": ["1.jpg"],
+      "tags": ["critical design", "recycling", "upcycling", "making", "electronics", "DIY"],
+      "description": ["DIWhy evaluates the practice of making in consumerist societies, exposing our inability to resolve problems with minimal resources. The project critics commercial maker kits, using this medium as social commentary.","DIWhy aims to highlight the value of invention while recycling what others consider waste."],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornoza"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Dian Rachmawati",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/diansorayar/",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Dian Soraya Rachmawati is a creative technologist who is passionate about doing work that is centered around people and their needs. She studies the human consciousness and the nuances of psychological well-being. She is the creator of the Parts, a therapeutic VR storytelling experience that directs the viewer inwards. In her work, she carefully crafts multi-sensorial virtual environments, and uses the power of narrative to facilitate emotional responses. "],
+    "project": {
+      "title": "The Parts ep1: I Love You By Self",
+      "website": "http://www.diansoraya.com/i-love-you-by-self/",
+      "thesis-category": ["VR/MR/AR"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["virtual reality", "narrative"],
+      "description": ["is a short therapeutic virtual reality story experience that elicit high intensity awe experience for stimulating self-compassion. This is the first in series of Archetypal meetings “The Parts”.  Alba/The Wisdom provides foundation for exploring self with compassion."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Vishaal Ravikumar",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 56,
+    "name": "Ren Du",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Second year student of MFA DT, focus on game design, AI and IOT"],
+    "project": {
+      "title": "echo",
+      "website": "rendu.blog",
+      "thesis-category": ["Installation"],
+      "coverImage": "",
+      "image": ["1.jpeg", "2.jpeg", "3.jpg"],
+      "tags": ["soundscape", "installation", "nature"],
+      "description": ["I’m making a soundscape art project that reproduces the sound of rain with artificial products such as PVC pipes, plastic bags and solenoids. I want the audience to experience this artificial non-musical sound performance in a space that is constructed of multiple artificial materials.", "Through this installation, I’m showing that romanticizing the nature is actually a problematic way on how we think about nature.","I continue to question which one is more truthful, nature or non-nature."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Zahra Sadjadi",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 58,
+    "name": "Liang Shi",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Liang Shi is a UI/UX designer, interactive artist based in New York City. His interests include interactive installation, digital visual art, user experience design."],
+    "project": {
+      "title": "Photo Poet",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Generative Art", "Computational Photography", "Poetry", "Machine Creativity"],
+      "description": ["Photo Poet questions how computational technology can be used to expand photography from an artistic perspective.", "Photo Poet features a poetry generation program that can write poems based on a digital photograph. The program presents the content and information of the photo in the form of poetry, which becomes an extension of that photo piece.", "With computer vision and generative technology, the computer takes part in the creation of the artwork. Combining the generated poem with the original photo, it becomes a collaboration between human and computer. Besides, the poem might potentially initiate an artistic conversation."],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Danielle Sobel",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/dvsobel/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Product Designer from New York, interested in behavioral designs to help the lives of people. In her spare time she loves to hike upstate with family and friends."],
+    "project": {
+      "title": "Impulse",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Decision Making", "Behavioral Psychology", "Behavioral Design/Finance"],
+      "description": ["The aim for my thesis is to create an intervention for online impulse buyers (adults ages eighteen and up) and to assist them with their decision-making. Weaving this web-driven application with the everyday lives of my users will help provide them with the tools to make appropriate choices for their budgets and general well-being. Since existing interfaces try to speed up to process for consumers and make them buy more and faster, my users will have the capability to use compartmentalized strategies or interventions I provide them to help manage these impulses and slow them down. I seek to make my users more confident about their purchases and to save money. "],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Chuyi Sun",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["As a UI/UX designer, my goal is to constantly deliver the design that can truly help users to solve their problems and build an enjoyable moment."],
+    "project": {
+      "title": "",
+      "website": "https://chuyisun.com/",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["board game", "family communication", "senior citizens"],
+      "description": ["I am creating a physical board game that aims to improve the interaction among family members by encouraging them to have conversations and know more about others based on provided questions and interactive tasks."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Jing Sun",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Jing Sun is an Interaction Designer. She is passionate about physical and digital explorations and creating poetic experiences through Design."],
+    "project": {
+      "title": "Words Say",
+      "website": "https://www.jingsun.me/thesis",
+      "thesis-category": ["Installation"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Digital Humanity", "Poetic Design", "Art Installation", "Digital Literature"],
+      "description": ["Words Say creates a place where people could play with shapes, space and language. When the user enters the space, there are only words guiding them through the story. The words are associated and dynamic as people move. The user chooses words to write a poem as well as creates a pattern with their trace. The poem and the trace share the same characteristics.", "I’m exploring how the creation of patterns could be accordant with user’s interpretation of poetry. Words are the clue. There is a word at where the user starts his/her journey. And at the same time, there are associated words around the start word. The ones which share more common are more closely placed. User can keep picking words and get dynamic associated words with his/her movement. Generated contents will appear sentence by sentence. If user wants the content to be more dramatic, then he/she picks a word that is far away. Imagination becomes bigger when the word has less relationship to the first word. Also the shape becomes more dramatic."],
+      "studio-professor-1": "Anthony Deen",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Lin Sun",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "www.arlenesun.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Crossover Designer"],
+    "project": {
+      "title": "00:00:00",
+      "website": "https://vimeo.com/arlenesun",
+      "thesis-category": ["Storytelling/Film"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Experimental animation", "Storytelling "],
+      "description": ["Experimental animation telling a motivational story"],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Yiqi Sun",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Yiqi Sun is a visual designer, and a creative technologist. She is experienced in UX/UI, the Internet of Things, Physical Computing, and Game Development. Yiqi's goal is to be able to combine new technologies with conventional design approach to create solutions for society. "],
+    "project": {
+      "title": "TREE HOLLOW",
+      "website": "",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": ["1.png", "2.png"],
+      "tags": ["secrets", "voice-interactive", "machine-crafted", "IOT product"],
+      "description": ["Tree Hollow is a voice-interactive, small machine-crafted object that helps people vent unspeakable secrets to the tree hollow, get release from the pressure generated by keeping secrets, and, following users’ voice input, store, retrieve, and decode encrypted secrets as wanted for further relief from the stress of tightly-held secrets."],
+      "studio-professor-1": "David Caroll",
+      "writing-professor-1": "Barbara Morris",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Leah Takele",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 65,
+    "name": "Paolo Villanueva",
+    "profile-pic": "portraits/paolo.jpg",
+    "social": {
+      "portfolio": "",
+      "facebook": "http://facebook.com/aswangvr",
+      "instagram": "http://instagram.com/itspaolopv",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I am a Visual Storyteller focused on creating new and interesting digital/physical experiences, virtual and augmented reality projects. I have an MFA in Design and Technology from Parsons and a Bachelor of Science Degree in Computer Science.", "I have had a wide-ranging career in digital and media production, software development, social impact advocacy, and non profit leadership. I’ve also been a winning team member in several hackathons and design jams, and my work has been produced and distributed internationally.", " I have spent four years running a company that I co-founded within the Ateneo de Davao University called iCommp, a media design company with a team of 60 that produces multimedia content on advocacies such as climate change, environmental protection, renewable energy and social justice."],
+    "project": {
+      "title": "Tales of the Aswang",
+      "website": "",
+      "thesis-category": ["VR/MR/AR"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Visual Storytelling" , "Virtual Reality", "Mixed Reality", "Mythology", "Storytelling", "Animation", "Film", "Video", "Social Issues", "Multimedia Production"],
+      "description": ["Tales of the Aswang is a VR Game that welcomes you into the world of Filipino mythology, filled with the most prolific and yet mysterious monsters of the lore called the Aswang.\n You navigate by walking, climbing and grabbing objects. You use these mechanics to explore, solve puzzles, find items and discover hidden narratives."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Qihui Wang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 67,
+    "name": "Shenxun Wang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "www.shenxunwang.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Product Designer"],
+    "project": {
+      "title": "SmartLog",
+      "website": "",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["User Experience", "Fitness", "Sports"],
+      "description": ["SmartLog is a mobile application designed for intermediate athletes to track their weightlifting performance in order to assist users achieve their training goal"],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 68,
+    "name": "La Tricia Watford",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "www.lwatford.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["La Tricia Watford is an User Experience designer focused on emerging technologies, creative coding and augmented reality. "],
+    "project": {
+      "title": "LIZZETTE",
+      "website": "www.lwatford.com",
+      "thesis-category": ["Wearable", "Product Design"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["wearable technology", "design", "human centered design", "innovative design"],
+      "description": ["LIZZETTE is a custom sports bra that helps well-endowed women who participate in sports activities such as running, boxing or yoga in comfort and ease regardless of the activity. This thesis acknowledges the challenge the fashion industry has when developing sports bra for women that are larger than a cup size C. Women who are well endowed are not provided with the proper support and coverage their breast need.", "The development of this bra aims to merge new technology with an industry that has been slow to seamlessly integrate fashion with the advancement of 3D technology. In order to provide every woman with the exact fit of their body. Fashion and Technology are no longer seen as separate entities and by merging the two, designers and developers can change fashion so it is easily customized to anyone’s body and shape. Through the development of my structure which is sculpted to the individual’s exact measurements, the \"Lizzette\" is a sports bra was designed to fits the individuals shape. The purpose if this sports bra is to provide well-endowed women with a product that is not only customized, but comfortable and elegant."],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Tao Wei",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I'm an entrepreneur- minded product designer focused on product strategy and user experience design. I enjoy customer development process and find product market fit for the next big thing in Fintech, Healthcare, Blockchain and Media industry. "],
+    "project": {
+      "title": "Mailody",
+      "website": "",
+      "thesis-category": ["Product Design"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Service design", "Product design", "UI/UX", "Physical computing", "Industrial design"],
+      "description": ["Mailody is a service design project that allows postcard users to discover and share locally distinctive music based on contextual information such as geolocation, the weather, and the emotions conveyed through the handwritten content of the postcard. It consists of a mobile app and a physical music player. The mobile app allows the postcard sender to choose a song from a list of recommendations based on contextual data and attach it to the postcard through visual marker, whereas the receiver can use the music player to play the music by scanning the marker on the postcard. Mailody adds a tactile physical experience to the intangible music streaming service and taps into the nature of postcard as a tangible artifact and infuses it with a utility that is evocative of another familiar tactical experience through associations."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornoza"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Ashlee Woo",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": "@ashieem"
+    },
+    "aboutme": ["I am Ashlee Woo from DT MFA second year student. "],
+    "project": {
+      "title": "Oddly Pinkifying ",
+      "website": "",
+      "thesis-category": ["Installation"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Projection", "Installation Art "],
+      "description": ["Oddly satisfying 3D video Projection installation would help people who is having an anxiety disorder to become relaxed and calm through the repetition of moving objects as an artistic way."],
+      "studio-professor-1": "Benjamin Gaulon",
+      "writing-professor-1": "Claire Richard",
+      "other-professor-1": "Christine Sugrue",
+      "studio-professor-2": "Benjamin Gaulon",
+      "writing-professor-2": "Claire Richard",
+      "other-professor-2": "Christine Sugrue"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Yi Wu",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 72,
+    "name": "Chengcheng Xiang ",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I am an interactive designer and graphic designer"],
+    "project": {
+      "title": "The Memory Box",
+      "website": "",
+      "thesis-category": ["Product Design", "VR/MR/AR"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Interactive", "Product", "AR"],
+      "description": ["It is an interactive experience for a product to store memories in order to cope with grief. I want to help users store their memories and feelings in the memory box by attaching visual/vocal digital files to physical objects. "],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Mattie Brice",
+      "writing-professor-2": "Loretta Wolozin"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Yiying Xiao",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Creative designer focusing on making unique and dynamic user experience."],
+    "project": {
+      "title": "Whisper Garden",
+      "website": "",
+      "thesis-category": ["Playful Experiences"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Game", "journaling", "mindfullness"],
+      "description": ["A mobile game that can collect user’s thoughts of the day by typing, and give out a result from analyzing the tones and sentiment degrees of the journal. The result is aimed to motivate user to form the habit of keeping diary.","By doing this, I intend to encourage people to start slowing down their life and form the habit of keeping journal to really concentrate on their life, thoughts and feelings."],
+      "studio-professor-1": "Aya Karpinska",
+      "writing-professor-1": "Loretta Wolozin",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Qinwen Xing",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["-"],
+    "project": {
+      "title": "Passage of memory",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Installation"],
+      "description": ["This interactive installation recreates some of my memorable moments by using the sense of smell and touch."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornoza"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Zhiyang Xu ",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": [""],
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 76,
+    "name": "Qinqin Yang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Qinqin is interested in exploring alternative experiences and novel storytelling through cutting-edge technology to shape the reality. Most of her works are speculative and fictional."],
+    "project": {
+      "title": "DNA-Living Hard Drives",
+      "website": "",
+      "thesis-category": ["Speculative/Critical", "Design Fiction"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["speculative design", "design fiction", "Designed objects"],
+      "description": ["DNA-Living Hard Drives is a design fiction exploring applications of DNA-data storage and DNA-editing on living things. The project speculates on the future when people keep the most valuable memory into the plant in order to make it last forever for offsprings. This project aims to invite people to reflect on the meaning of data, memory and inheritance. "],
+      "studio-professor-1": "Benjamin Gaulon",
+      "writing-professor-1": "Claire Richard",
+      "other-professor-1": "Christine Sugrue",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford",
+      "other-professor-2": ""
+    }
+  },
+  {
+    "id": 77,
+    "name": "Xiaojie Yang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": [""],
+    "project": {
+      "title": "",
+      "website": "",
+      "thesis-category": "",
+      "coverImage": "",
+      "image": [""],
+      "tags": [""],
+      "description": [""],
+      "studio-professor-1": "",
+      "writing-professor-1": "",
+      "studio-professor-2": "",
+      "writing-professor-2": ""
+    }
+  },
+  {
+    "id": 78,
+    "name": "Jieming Yu",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["A UX designer who is interested in animation"],
+    "project": {
+      "title": "Insights",
+      "website": "",
+      "thesis-category": ["Storytelling/Film"],
+      "coverImage": "",
+      "image": ["1.jpeg", "2.jpeg"],
+      "tags": ["Animation", "Film"],
+      "description": ["Insights is a short animation film that tells the story about how a surveillance device ruin the trust between a couple. It aims to provoke audience’s consideration on what is the fine line between privacy and intimacy."],
+      "studio-professor-1": "Benjamin Gaulon",
+      "writing-professor-1": "Claire Richard",
+      "other-professor-1": "Christine Ann Sugrue",
+      "studio-professor-2": "Christopher Romero",
+      "writing-professor-2": "Ethan Silverman",
+      "other-professor-2": ""
+    }
+  },
+  {
+    "id": 79,
+    "name": "Yaying Zeng",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/bbbig_",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Hi, I'm Yaying Zeng. I'm a Graphic Designer/Visual Artist currently pursuing an MFA degree in Design Technology at Parsons School of Design. I'm fascinated with Visual Design, Human-computer Interaction, Motion Graphics and Installation Art. I am an explorer keen on learning new media to tell stories and express feelings. I believe that design is a journey of self-discovery."],
+    "project": {
+      "title": "Listen",
+      "website": "https://www.yayingzeng.com/listen",
+      "thesis-category": ["Installation", "Cultrue/Issues"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Gender Stereotypes", "Interactive Installation"],
+      "description": ["Listen is an interactive project that convey Chinese women’s struggle when external world imposes pressure on them. A character-based animation will be projected on the wall."],
+      "studio-professor-1": "Anezka Sebek",
+      "writing-professor-1": "Ethan Silverman",
+      "studio-professor-2": "Jesse Harding",
+      "writing-professor-2": "Chris Prentice"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Jialu Zhang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "www.jialuzhang.com",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Jialu is an aspiring digital product designer, using both a creative and a data-informed approach to design aesthetic, accessible, and sustainable products. She is passionate about design and emerging technologies and eager to work on new things with creative ideas in the field of interaction design."],
+    "project": {
+      "title": "Future Nature",
+      "website": "https://www.jialuzhang.com/future-nature",
+      "thesis-category": ["Speculative/Critical", "VR/MR/AR"],
+      "coverImage": "",
+      "image": ["1.jpg", "2.jpg"],
+      "tags": ["Speculative / Critical", "Virtual Reality", "Interactive Exprience"],
+      "description": ["Future Nature speculates on a future where any remaining traces of the current natural world must exist within an 100% built environment. Using VR, participants will immerse themselves in a representation of a frightening future where nature is substituted by virtual recreations of non-human animals, plants, weather and wilderness of today.","The goal of this project is to help people envision a world infused with technological nature, in order to rethink the conservation of our current natural environment, as well as the possibilities opened by near-future technologies."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "Colleen Macklin",
+      "writing-professor-2": "Barbara Morris"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Su Zhang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/su-zhang-229278127/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["I'm Su Zhang and currently live in New York. I have a design background of interaction design, user experience design, and creative coding. Also passionate about problem solving and creative design."],
+    "project": {
+      "title": "Small World",
+      "website": "https://www.suzhang-design.com/small-world",
+      "thesis-category": ["VR/MR/AR", "Education"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Augmented Reality", "Education"],
+      "description": ["Small World is an educational toolkit with augmented reality experience."],
+      "studio-professor-1": "David Carroll",
+      "writing-professor-1": "Barabara Morris",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Tong Zhang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/tzhang0223/",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Designer interested in edible experiences and food politics. "],
+    "project": {
+      "title": "Untitled",
+      "website": "http://zhangtong.weebly.com/",
+      "thesis-category": ["Installation", "Storytelling/Film"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Video installation"],
+      "description": ["[ Untitled ] is an edible and visual installation that investigates the politics of eating sugar around the world.  It is made to initiate conversation and thought around the bitter information that we obliterate from our daily consumptions around sucrose, and is intended to draw parallel with the exposed and hidden stories that constitute consumerism, power and obliteration. "],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "Chris Romero",
+      "writing-professor-2": "Ethan Silverman"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Zhongyue Zhang",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Passionate Installation Artist/UX/UI Designer/Front-End Developer"],
+    "project": {
+      "title": "The Equinox",
+      "website": "http://www.zonzh.com/",
+      "thesis-category": ["Installation"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Installation Art", "Reality", "Visual Perception"],
+      "description": ["'The Equinox 'is interactive installation which is exploring human visual perception in art form. It reduplicates a visual phenomena from natural environment and integrates Tibetan buddhism philosophy in the experience."],
+      "studio-professor-1": "Anthony Dean",
+      "writing-professor-1": "Andrew Zornoza",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornorza"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Hanyu Zhao",
+    "profile-pic": "",
+    "social": {
+      "portfolio": "http://www.hanyuzhao.com/arteasan?mr=1523145176",
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": "",
+      "other": ""
+    },
+    "aboutme": ["Hi, I am Hanyu Zhao I am a UX Designer and Animator based in New York City. I am currently an MFA Design and Technology candidate at Parsons the New School of Design in the United States.I am now spending the majority of time on making interaction design and improving the user experience. I have a background in Animation, but I also love exploring new media such as Illustration, Comics, and Graphic Design. I value the craftsmanship, but I also believe the process of making thing is as important as a result."],
+    "project": {
+      "title": "Ar.Tea.San",
+      "website": "http://www.hanyuzhao.com/arteasan?mr=1523145176",
+      "thesis-category": ["Installation", "Storytelling/Film", "Culture/Issues"],
+      "coverImage": "",
+      "image": [""],
+      "tags": ["Interactive Installation", "Animation", "Culture", "Tea Cultivation"],
+      "description": ["Ar.Tea.San  explores the practices of the cultivation of fine tea in Asia to enhance the experience of the beverage. The installation employs the physical objects and digital animation to tell a tale of the delicate cultivation and craft of producing a cup of green tea. Steeped-pun intended-in the farm-to-table ethic, my storytelling machine affords a simple introduction to the complexity and profound cultural significance of small-batch tea farming in China."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "Katherine Moriwaki",
+      "writing-professor-2": "Andrew Zornoza"
+    }
+  }
+]
